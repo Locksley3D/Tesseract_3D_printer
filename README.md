@@ -1,4 +1,4 @@
-# Tesseract_3D_printer
+# Tesseract 3D printer
 
 ![Side render of the Tesseract 3D printer](https://github.com/Locksley3D/Tesseract_3D_printer/blob/main/Gallery/render%202.jpg)
 
